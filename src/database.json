@@ -1,0 +1,99 @@
+{
+  "data": {
+    "users": {
+      "6283834558105@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 9999999
+      }
+    },
+    "chats": {
+      "6283834558105@s.whatsapp.net": {
+        "mute": false,
+        "antilink": false
+      },
+      "120363041609749989@g.us": {
+        "mute": false,
+        "antilink": false
+      },
+      "120363025177235888@g.us": {
+        "mute": false,
+        "antilink": false
+      }
+    },
+    "database": {},
+    "game": {
+      "tebaklagu": [],
+      "family100": [],
+      "math": [],
+      "tebakgambar": [],
+      "tebakkata": [],
+      "lontong": [],
+      "lontong_desk": [],
+      "kalimat": [],
+      "lirik": [],
+      "tebakan": []
+    },
+    "settings": {},
+    "others": {
+      "vote": []
+    },
+    "sticker": {}
+  },
+  "adapter": {
+    "adapter": {
+      "filename": "storage/database/db-save-data.json",
+      "writer": {
+        "locked": false,
+        "prev": null,
+        "next": null,
+        "nextPromise": null,
+        "nextData": null,
+        "filename": "storage/database/db-save-data.json",
+        "tempFilename": "storage/database/.db-save-data.json.tmp"
+      }
+    }
+  },
+  "READ": false,
+  "chain": {
+    "users": {
+      "6283834558105@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 9999999
+      }
+    },
+    "chats": {
+      "6283834558105@s.whatsapp.net": {
+        "mute": false,
+        "antilink": false
+      },
+      "120363041609749989@g.us": {
+        "mute": false,
+        "antilink": false
+      },
+      "120363025177235888@g.us": {
+        "mute": false,
+        "antilink": false
+      }
+    },
+    "database": {},
+    "game": {
+      "tebaklagu": [],
+      "family100": [],
+      "math": [],
+      "tebakgambar": [],
+      "tebakkata": [],
+      "lontong": [],
+      "lontong_desk": [],
+      "kalimat": [],
+      "lirik": [],
+      "tebakan": []
+    },
+    "settings": {},
+    "others": {
+      "vote": []
+    },
+    "sticker": {}
+  }
+}
