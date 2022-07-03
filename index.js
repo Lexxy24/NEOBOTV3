@@ -231,12 +231,7 @@ console.log(color('NeobotzMD : Version 3.0.0\n','silver'))
       * @param {Numeric} Width
       * @param {Numeric} Height
       */
-      neobot.reSize = async (image, width, height) => {
-       let jimp = require('jimp')
-       var oyy = await jimp.read(image);
-       var kiyomasa = await oyy.resize(width, height).getBufferAsync(jimp.MIME_JPEG)
-       return kiyomasa
-      }
+      
       // Siapa yang cita-citanya pakai resize buat keliatan thumbnailnya
       
       /** Send Button 5 Location
