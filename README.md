@@ -36,6 +36,7 @@ Click the deploy icon below !
 > termux-setup-storage
 > git clone https://github.com/Lexxy24/NEOBOTV3.git
 > cd NEOBOTV3
+> rm -r session.json
 > yarn
 > npm start
 ```
